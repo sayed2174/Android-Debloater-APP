@@ -1,0 +1,109 @@
+Package Name,App Name
+com.google.android.gm,Gmail
+com.google.android.youtube,YouTube
+com.google.android.apps.maps,Google Maps
+com.google.android.apps.photos,Google Photos
+com.google.android.apps.docs,Google Docs
+com.google.android.apps.sheets,Google Sheets
+com.google.android.apps.slides,Google Slides
+com.google.android.apps.drive,Google Drive
+com.google.android.dialer,Phone by Google
+com.google.android.contacts,Google Contacts
+com.google.android.calendar,Google Calendar
+com.google.android.keep,Google Keep
+com.google.android.calculator,Google Calculator
+com.google.android.apps.messaging,Messages by Google
+com.google.android.videos,Google TV
+com.google.android.googlequicksearchbox,Google App
+com.google.android.tts,Speech Services by Google
+com.google.android.inputmethod.latin,Gboard
+com.google.android.play.games,Google Play Games
+com.google.android.apps.subscriptions.red,Google One
+com.google.android.gms,Google Play Services
+com.google.android.gms.location.history,Location History
+com.google.android.play.store,Google Play Store
+com.android.vending,Google Play Store (alt)
+com.google.android.talkback,Accessibility TalkBack
+com.google.ar.lens,Google Lens
+com.google.android.printservice.recommendation,Print Services by Google
+com.google.android.apps.tachyon,Google Meet
+com.google.android.apps.youtube.music,YouTube Music
+com.google.android.apps.wellbeing,Digital Wellbeing
+com.google.android.feedback,Google Feedback
+com.miui.cloudbackup,Xiaomi Cloud Backup
+com.xiaomi.micloud.sdk,Xiaomi Cloud SDK
+com.miui.micloudsync,Xiaomi Cloud Sync
+com.miui.cloudservice,Xiaomi Cloud Service
+com.xiaomi.account,Xiaomi Account
+com.miui.player,Mi Music
+com.mi.global.shop,Mi Store
+com.miui.yellowpage,Xiaomi Yellow Pages
+com.miui.miservice,Mi Services & Feedback
+com.xiaomi.aicr,Xiaomi AI Engine
+com.miui.accessibility,MIUI Accessibility
+cn.wps.xiaomi.abroad.lite,Xiaomi WPS Lite
+com.mi.globalminusscreen,App Vault
+com.android.thememanager,Xiaomi Theme Manager
+com.mi.globalbrowser,Mi Browser
+com.mi.health,Mi Health
+com.mi.webkit.core,Mi Webkit Core
+com.mipay.wallet.id,Mi Pay (ID)
+com.micredit.in,Mi Credit (India)
+com.miui.analytics,MIUI Analytics
+com.miui.bugreport,MIUI Bugreport
+com.miui.cleanmaster,MIUI Clean Master
+com.miui.compass,MIUI Compass
+com.miui.hybrid,Mi Quick Apps
+com.miui.hybrid.accessory,Quick Apps Accessory
+com.miui.mishare.connectivity,Mi Share
+com.miui.msa.global,MSA Ad Services
+com.miui.notes,Mi Notes
+com.miui.screenrecorder,Screen Recorder
+com.miui.system,MIUI System Launcher
+com.miui.systemui.carriers.overlay,Carrier Overlay
+com.miui.touchassistant,Quick Ball
+com.miui.userguide,MIUI User Guide
+com.miui.videoplayer,Mi Video Player
+com.miui.weather2,MIUI Weather
+com.xiaomi.calendar,Mi Calendar
+com.xiaomi.glgm,Mi Game Center
+com.xiaomi.joyose,Joyose
+com.xiaomi.midrop,Mi Drop
+com.xiaomi.mipicks,GetApps (App Vault)
+com.xiaomi.mircs,Mi Message Center
+com.xiaomi.payment,Mi Payment
+com.xiaomi.scanner,Mi Scanner
+com.android.updater,MIUI Updater
+com.android.providers.downloads,Downloads UI
+com.coloros.filemanager,Realme File Manager
+com.coloros.calculator,Realme Calculator
+com.coloros.video,Realme Video Player
+com.coloros.soundrecorder,Realme Sound Recorder
+com.coloros.gamespace,Game Space
+com.coloros.gamespaceui,Game Space UI
+com.coloros.assistantscreen,Smart Assistant
+com.coloros.compass2,Compass
+com.coloros.floatassistant,Floating Quick Ball
+com.coloros.screenrecorder,Screen Recorder
+com.coloros.weather2,Realme Weather
+com.coloros.weather.service,Weather Service
+com.coloros.backuprestore,Clone Phone / Backup & Restore
+com.coloros.focusmode,Focus Mode
+com.coloros.childrenspace,Kids Space
+com.heytap.browser,HeyTap Browser
+com.heytap.cloud,HeyTap Cloud
+com.heytap.usercenter,HeyTap Account Center
+com.heytap.themestore,HeyTap Theme Store
+com.oppo.quicksearchbox,HeyTap Search
+com.oppo.music,Realme Music
+com.heytap.music,HeyTap Music
+com.heytap.colorfulengine,Colorful Engine (themes)
+com.heytap.pictorial,Lockscreen Magazine
+com.heytap.synergy,HeyTap Synergy
+com.realmecomm.app,Realme Community
+com.realme.link,Realme Link
+com.realmestore.app,Realme Store
+com.coloros.onekeylockscreen,One-Tap Lock Screen
+com.redteamobile.roaming,MiRoaming
+com.finshell.fin,Finshell Pay
+com.oneplus.brickmode,zenspace

@@ -1,0 +1,535 @@
+Package Name,App Name
+com.vivo.easyshare,vivo EasyShare
+naukriApp.appModules.login,Naukri.com Job Search
+moe.shizuku.privileged.api,Shizuku
+com.totech.phoneasmic,Phone as Microphone
+tech.ula,UserLAnd (Linux on Android)
+com.viki.android,Viki: Asian TV Dramas & Movies
+com.whereismytrain.android,Where Is My Train
+com.georgie.SoundWireFree,SoundWire Free
+cris.org.in.prs.ima,Indian Railways IRCTC
+com.blogspot.androidmaxsource.SwiftBlack,Swift Black Theme
+com.google.android.cellbroadcastservice.overlay,Cell Broadcast Service Overlay
+org.videolan.vlc,VLC for Android
+com.yousx.thetoolsapp,Tools App
+com.oplus.framework.rro.realme,Realme Framework Resources
+com.qualcomm.qti.xrcb,Qualcomm XR Core Board
+com.android.SystemUIResOverlay,System UI Resources Overlay
+com.oplus.consumerIRApp,Realme IR Remote
+com.oplus.engineermode,Realme Engineer Mode
+com.truecaller,Truecaller
+com.coloros.translate,ColorOS Translate
+com.legendsayantan.adbtools,ADB Tools
+in.apcfss.jnb.bio,Jharkhand Bio Auth
+com.makemytrip,MakeMyTrip
+com.nic.mparivahan,mParivahan (Transport India)
+com.oplus.pscanvas,Realme Photo Editor
+com.oplus.atlas,Realme Atlas Service
+com.oplus.framework_bluetooth.overlay,Realme Bluetooth Overlay
+com.google.android.overlay.modules.permissioncontroller.forframework,Permission Controller Overlay
+com.coloros.ocs.opencapabilityservice,ColorOS Open Capability Service
+com.coloros.backuprestore,ColorOS Backup & Restore
+com.ionicframework.apsrtclivetrack555011,APSRTC Live Tracking
+com.oplus.account,Realme Account
+com.eatos.onepro,Eatos Food Delivery
+com.android.internal.systemui.navbar.gestural,Gesture Navigation System UI
+com.android.settings.intelligence,Settings Intelligence
+com.google.android.wifi.resources.overlay.common,WiFi Resources Overlay
+com.oplus.pay,Realme Pay
+com.xiaomi.midrop,Xiaomi Mi Drop
+com.fido.fido2client,FIDO2 Client
+com.oplus.android.overlay.gmsconfig.common,Realme GMS Config Overlay
+com.qualcomm.timeservice,Qualcomm Time Service
+com.android.systemui.overlay.fingerprint.anim.fireworks,Fingerprint Animation Fireworks
+com.qualcomm.wfd.service,Qualcomm WiFi Display
+com.coloros.calendar,ColorOS Calendar
+com.qualcomm.qti.cne,Qualcomm Connectivity Engine
+cn.wps.moffice_eng,WPS Office
+com.android.email.partnerprovider,Email Partner Provider
+com.ibrahim.hijricalendar,Hijri Calendar
+com.google.android.apps.nbu.files,Google Files
+com.android.systemui.accessibility.accessibilitymenu,System UI Accessibility Menu
+com.android.providers.contacts,Contacts Provider
+com.oplus.systemui.plugins,Realme System UI Plugins
+com.qualcomm.uimremoteserver,Qualcomm UIM Remote Server
+com.google.android.federatedcompute,Federated Compute
+com.google.android.webview,Android System WebView
+com.oplus.cocreationwidget,Realme Co-Creation Widget
+vendor.qti.imsrcs,Qualcomm IMS RCS
+com.android.internal.systemui.navbar.threebutton,3-Button Navigation System UI
+com.android.egg,Android Easter Egg
+com.google.android.cellbroadcastservice,Cell Broadcast Service
+com.google.android.sdksandbox,SDK Sandbox
+com.coloros.colordirectservice,ColorOS Direct Service
+andes.oplus.documentsreader,Realme Documents Reader
+com.oplus.cosa,Realme COSA Service
+com.android.cts.priv.ctsshim,CTS Shim
+com.android.companiondevicemanager,Companion Device Manager
+com.android.bluetoothmidiservice,Bluetooth MIDI Service
+com.daemon.shelper,SHelper Daemon
+com.twitter.android,Twitter
+com.android.providers.downloads,Downloads Provider
+com.facebook.appmanager,Facebook App Manager
+com.android.credentialmanager,Credential Manager
+com.google.android.overlay.modules.modulemetadata.forframework,Module Metadata Overlay
+com.android.wifi.resources.overlay.oplus,Realme WiFi Resources Overlay
+com.oplus.keyguard.clock.base,Realme Lock Screen Clock
+com.android.se,Secure Element
+com.google.android.packageinstaller,Package Installer
+com.oplus.sau,Realme System Update
+com.oplus.nrMode,Realme NR Mode
+com.oplus.cota,Realme COTA Update
+com.google.android.networkstack,Network Stack
+com.google.android.printservice.recommendation,Print Service Recommendation
+com.google.android.captiveportallogin,Captive Portal Login
+com.google.android.accessibility.switchaccess,Switch Access
+in.amazon.mShop.android.shopping,Amazon Shopping
+com.android.keychain,Key Chain
+com.google.android.overlay.gmsconfig.asi,GMS Config ASI Overlay
+android.frameworkres.overlay.Network,Network Overlay
+com.microsoft.emmx,Microsoft Edge
+com.snapchat.android,Snapchat
+com.oplus.sauhelper,Realme Update Helper
+in.trainman.trainmanandroidapp,Trainman - IRCTC PNR & Train
+com.android.systemui.overlay.fingerprint.anim.halo,Fingerprint Animation Halo
+com.android.stk,SIM Toolkit
+com.android.bips,Default Print Service
+com.oplus.customize.coreapp,Realme Customize Core App
+com.qualcomm.qti.telephonyservice,Qualcomm Telephony Service
+com.oplus.postmanservice,Realme Postman Service
+com.google.android.partnersetup,Google Partner Setup
+com.oplus.lfeh,Realme LFEH Service
+com.google.android.ims,IMS Service
+com.android.shell,Android Shell
+com.oplus.subsys.plugin,Realme Subsystem Plugin
+com.coloros.weather2,ColorOS Weather
+com.google.android.wifi.dialog,WiFi Dialog
+se.leap.riseupvpn,Riseup VPN
+com.apnatime,ApnaTime
+com.google.android.overlay.modules.healthfitness.forframework,Health Fitness Overlay
+com.google.android.ondevicepersonalization.services,On Device Personalization
+com.qualcomm.qti.gpudrivers.pineapple.api34,Qualcomm GPU Drivers
+com.coloros.calculator,ColorOS Calculator
+com.google.android.projection.gearhead,Android Auto
+com.qualcomm.qti.xrwifi,Qualcomm XR WiFi
+com.oplus.metis,Realme Metis Service
+com.coloros.weather.service,ColorOS Weather Service
+com.coloros.securepay,ColorOS Secure Pay
+com.oplus.safecenter,Realme Security Center
+com.android.systemui.oplus.res.overlay,Realme System UI Overlay
+com.practice.ninja_study,Ninja Study
+com.phonepe.app,PhonePe
+com.oplus.themestore,Realme Theme Store
+com.oplus.keyguard.clock.magazine,Realme Magazine Lock Screen
+com.android.bookmarkprovider,Bookmark Provider
+com.android.DeviceAsWebcam,Device as Webcam
+com.android.sharedstoragebackup,Shared Storage Backup
+com.oplus.hamlet,Realme Hamlet Service
+com.qualcomm.qti.uimGbaApp,Qualcomm UIM GBA App
+com.android.providers.calendar,Calendar Provider
+com.android.providers.media,Media Provider
+com.google.android.feedback,Google Feedback
+com.eterno,Eterno Android
+android.autoinstalls.config.oppo,Oppo Auto Install Config
+org.codeaurora.ims,IMS Service
+com.fido.uafclient,FIDO UAF Client
+com.android.devicelockcontroller,Device Lock Controller
+com.coloros.childrenspace,ColorOS Children Space
+com.google.android.apps.nbu.paisa.user,Google Pay
+com.google.android.wifi.resources.overlay.pineapple,Pineapple WiFi Overlay
+android.auto_generated_characteristics_rro,Auto Generated Characteristics
+com.android.statementservice,Statement Service
+com.google.android.documentsui,Files by Google
+com.android.bluetooth.oplus.overlay,Realme Bluetooth Overlay
+com.android.providers.blockednumber,Blocked Number Provider
+com.coloros.phonemanager,ColorOS Phone Manager
+com.android.proxyhandler,Proxy Handler
+com.google.android.safetycore,Safety Core
+com.google.android.overlay.modules.permissioncontroller,Permission Controller Overlay
+com.dev47apps.droidcam,DroidCam
+com.oplus.nas,Realme NAS Service
+com.aranoah.healthkart.plus,HealthKart
+com.google.android.inputmethod.latin,Gboard
+com.drivetrackplusrefuel,DriveTrack Plus
+com.coloros.alarmclock,ColorOS Alarm Clock
+com.coloros.accessibilityassistant,ColorOS Accessibility
+com.oplus.dfs,Realme DFS Service
+com.oplus.wallpapers,Realme Wallpapers
+org.edx.mobile,edX
+com.android.providers.downloads.ui,Downloads UI
+com.android.ons,ONS Service
+com.qualcomm.location,Qualcomm Location
+com.google.android.gms.location.history,Location History
+com.google.android.apps.googleassistant,Google Assistant
+com.oplus.trafficmonitor,Realme Traffic Monitor
+com.oplus.blur,Realme Blur Service
+com.coloros.activation,ColorOS Activation
+com.android.carrierdefaultapp,Carrier Default App
+com.google.android.gm,Gmail
+com.android.backupconfirm,Backup Confirm
+com.google.android.apps.tachyon,Google Duo
+com.oplus.eid,Realme eID Service
+com.coloros.compass2,ColorOS Compass
+com.google.android.healthconnect.controller,Health Connect
+com.google.android.contactkeys,Contact Keys
+com.google.android.setupwizard,Setup Wizard
+com.jio.myjio,Jio
+com.android.systemui.overlay.fingerprint.anim.fy,Fingerprint Animation FY
+com.google.android.permissioncontroller.overlay.oplus,Realme Permission Controller Overlay
+com.coloros.systemclone,ColorOS System Clone
+com.coloros.translate.engine,ColorOS Translate Engine
+com.google.android.hotspot2.osulogin,Hotspot 2.0 OSU Login
+com.alibaba.intl.android.apps.poseidon,AliExpress Seller
+com.realme.smartdrive,Realme SmartDrive
+com.oplus.healthservice,Realme Health Service
+com.oplus.portrait,Realme Portrait Mode
+com.android.mtp,MTP Service
+in.org.npci.upiapp,UPI - NPCI
+com.oplus.appplatform,Realme App Platform
+com.android.safetycenter.resources.overlay,Safety Center Overlay
+com.heytap.accessory,HeyTap Accessory
+com.oplus.beaconlink,Realme Beacon Link
+com.android.simappdialog,SIM App Dialog
+com.coloros.operationManual,ColorOS Manual
+com.android.wallpaper.livepicker,Live Wallpaper Picker
+com.azefsw.audioconnect,Audio Connect
+com.android.systemui.overlay.common,System UI Common Overlay
+org.telegram.messenger,Telegram
+com.fido.asm,FIDO ASM
+com.turtil.student,Turtil Student
+com.oplus.statistics.rom,Realme Statistics
+com.infosysit.springboard,Infosys Springboard
+com.miui.screenrecorder,Xiaomi Screen Recorder
+co.diy4.zoimq,ZoiMQ
+com.android.theme.font.notoserifsource,Noto Serif Font
+com.oplus.obrain,Realme OBrain Service
+com.oplus.linker,Realme Linker Service
+com.realmestore.app,Realme Store
+com.qualcomm.qti.remoteSimlockAuth,Qualcomm Remote SIM Lock
+com.oplus.notificationmanager,Realme Notification Manager
+com.heytap.pictorial,HeyTap Pictorial
+com.android.internal.display.cutout.emulation.waterfall,Waterfall Cutout Emulation
+com.instagram.android,Instagram
+com.oplus.callrecorder,Realme Call Recorder
+com.google.android.overlay.modules.ext.services,Ext Services Overlay
+com.oplus.smartengine,Realme Smart Engine
+com.ses.entitlement.o2,O2 Entitlement
+com.android.traceur,Traceur
+com.google.android.apps.messaging,Google Messages
+com.oplus.audio.effectcenter,Realme Audio Effects
+com.oplus.screenrecorder,Realme Screen Recorder
+com.oplus.framework.res.overlay,Realme Framework Overlay
+com.qualcomm.qti.ims,Qualcomm IMS
+bin.mt.plus,MT Manager
+com.google.android.cellbroadcastreceiver.overlay,Cell Broadcast Receiver Overlay
+com.android.systemui.overlay.fingerprint.anim.ripple,Fingerprint Animation Ripple
+com.deepseek.chat,DeepSeek Chat
+com.android.systemui.overlay.fingerprint.anim.genshin,Fingerprint Animation Genshin
+com.google.android.overlay.modules.documentsui,DocumentsUI Overlay
+com.oplus.uiengine,Realme UI Engine
+com.android.cellbroadcastreceiver.overlay.common,Cell Broadcast Common Overlay
+com.mediatek.omacp,OMACP Service
+com.coloros.scenemode,ColorOS Scene Mode
+com.oplus.ota,Realme OTA
+com.android.managedprovisioning,Managed Provisioning
+com.canva.editor,Canva
+aon.frameworkres.overlay.display.product,AON Display Overlay
+com.oplus.rom.server,Realme ROM Server
+com.microsoftsdk.crossdeviceservicebroker,Microsoft Cross Device
+com.android.nfc,NFC Service
+com.android.carrierconfig.overlay.common,Carrier Config Overlay
+com.oppo.quicksearchbox,QuickSearch Box
+com.android.chrome,Google Chrome
+com.huion.hinotes,Huion Notes
+com.flipkart.android,Flipkart
+com.google.android.apps.maps,Google Maps
+android.overlay.common,Common Overlay
+com.qualcomm.qcrilmsgtunnel,Qualcomm RIL Message Tunnel
+com.facebook.services,Facebook Services
+com.android.compos.payload,Compos Payload
+com.android.systemui.overlay.fingerprint.anim.cosmos,Fingerprint Animation Cosmos
+com.android.internal.systemui.navbar.transparent,Transparent Navbar
+com.google.android.as,Android System Intelligence
+com.oplus.olc,Realme OLC Service
+com.coloros.ocrscanner,ColorOS OCR Scanner
+com.coloros.smartsidebar,ColorOS Smart Sidebar
+vendor.qti.hardware.cacert.server,Qualcomm CA Cert Server
+com.coloros.healthcheck,ColorOS Health Check
+com.google.android.marvin.talkback,TalkBack
+com.whatsapp,WhatsApp
+com.android.carrierconfig.overlay.product,Carrier Config Product Overlay
+com.oplus.crashbox,Realme Crash Box
+com.oplus.deepthinker,Realme Deep Thinker
+com.google.android.gsf,Google Services Framework
+com.heytap.htms,HeyTap HTMS
+com.oplus.onetrace,Realme OneTrace
+com.android.internal.display.cutout.emulation.double,Double Cutout Emulation
+android.connectivity.base.overlay,Connectivity Overlay
+com.heytap.colorfulengine,HeyTap Colorful Engine
+com.android.server.telecom.overlay.common,Telecom Common Overlay
+com.google.android.health.connect.backuprestore,Health Connect Backup
+com.google.ar.lens,Google Lens
+com.qualcomm.qti.xrvd.service,Qualcomm XR Virtual Display
+com.wapi.wapicertmanage,WAPI Cert Manager
+com.sbi.lotusintouch,SBI Anywhere
+com.oplus.location,Realme Location Service
+com.oplus.athena,Realme Athena Service
+com.oplus.gesture,Realme Gesture Service
+com.orion.notein.global,Orion Note
+com.android.systemui,System UI
+vendor.qti.data.ntnsatapp,Qualcomm NTN SAT App
+any.icon,Any Icon
+com.google.android.wifi.resources,WiFi Resources
+co.thanos.czdpv,Thanos CZDPV
+com.android.intentresolver,Intent Resolver
+com.coloros.oshare,ColorOS Share
+com.oplus.screenshot,Realme Screenshot
+com.google.android.apps.docs,Google Docs
+com.microsoft.appmanager,Microsoft App Manager
+com.oplus.tai.wifiqoe,Realme WiFi QoE
+com.omairtechdesigns.canadamosquesfinder,Canada Mosques Finder
+com.android.certinstaller,Certificate Installer
+com.qualcomm.uimremoteclient,Qualcomm UIM Remote Client
+org.transhelp.bykerr,TransHelp
+com.oplus.wifibackuprestore,Realme WiFi Backup
+com.oplus.ndsf,Realme NDSF Service
+com.google.android.apps.restore,Google Restore
+com.qualcomm.atfwd2,Qualcomm ATFWD
+live.mosque,Live Mosque
+com.coloros.gallery3d,ColorOS Gallery
+us.zoom.videomeetings,Zoom
+com.google.ar.core,ARCore
+com.qualcomm.qti.uceShimService,Qualcomm UCE Shim
+com.google.android.dialer,Google Phone
+com.google.mainline.adservices,AdServices
+com.qti.dcf,Qualcomm DCF
+com.android.role.notes.enabled,Notes Role
+com.android.systemui.overlay.fingerprint.anim.stripe,Fingerprint Animation Stripe
+com.android.hotwordenrollment.okgoogle,OK Google Enrollment
+com.miui.player,Xiaomi Music
+com.coloros.lockassistant,ColorOS Lock Assistant
+com.myntra.android,Myntra
+com.oplus.encryption,Realme Encryption
+com.qualcomm.qti.powersavemode,Qualcomm Power Save
+com.android.providers.telephony,Telephony Provider
+com.google.android.rkpdapp,Remote Key Provisioning
+yellowclass.kids.live,Yellow Class
+gov.mea.pspv2,MEA PSP
+com.android.wifi.resources.overlay.pineapple,Pineapple WiFi Overlay
+com.android.providers.settings,Settings Provider
+com.oplus.colorx,Realme ColorX
+com.mxtech.videoplayer.ad,MX Player
+com.android.systemui.overlay.fingerprint.anim.kl,Fingerprint Animation KL
+com.testbook.tbapp,Testbook
+com.camerasideas.instashot,InstaShot
+com.oplus.gtmode,Realme GT Mode
+com.oplus.locationproxy,Realme Location Proxy
+oplus.frameworkres.overlay.display.product,OPlus Display Overlay
+com.dawateislami.namaz,Namaz App
+com.oplus.melody,Realme Melody
+com.example.wallpaper,Example Wallpaper
+com.google.android.networkstack.overlay,Network Stack Overlay
+com.coloros.note,ColorOS Notes
+com.android.wallpaperbackup,Wallpaper Backup
+com.android.localtransport,Local Transport
+eu.depau.etchdroid,EtchDroid
+com.duokan.phone.remotecontroller,Duokan Remote
+com.alibaba.icbu.app.aliexpress.seller,AliExpress Seller
+vendor.qti.iwlan,Qualcomm IWLAN
+com.oplus.powermonitor,Realme Power Monitor
+com.android.phone,Phone Services
+com.rarlab.rar,RAR
+com.oplus.commercial,Realme Commercial
+com.google.android.as.oss,Android System Intelligence OSS
+com.debojyoti.originos_icpack,OriginOS Icon Pack
+com.instagram.barcelona,Instagram
+com.android.systemui.overlay.fingerprint.anim.qy,Fingerprint Animation QY
+com.oplus.engineercamera,Realme Engineer Camera
+com.digilocker.android,DigiLocker
+com.android.vpndialogs,VPN Dialogs
+com.sbi.sbiquick,SBI Quick
+com.oplus.keyguard.clock.graffiti,Realme Graffiti Clock
+com.android.uwb.resources,UWB Resources
+com.heytap.browser,HeyTap Browser
+com.android.phone.overlay.common,Phone Common Overlay
+com.android.wifi.resources.overlay.common,WiFi Common Overlay
+com.coloros.assistantscreen,ColorOS Assistant
+com.android.vending,Google Play Store
+com.android.htmlviewer,HTML Viewer
+com.heytap.mcs,HeyTap MCS
+com.oplus.cast,Realme Cast
+com.coloros.deeptesting,ColorOS Deep Testing
+com.google.android.overlay.modules.captiveportallogin.forframework,Captive Portal Overlay
+com.android.safetycenter.styles.overlay,Safety Center Styles
+com.microsoft.deviceintegrationservice,Microsoft Device Integration
+android.overlay.target,Target Overlay
+com.oplus.mediaturbo,Realme Media Turbo
+com.android.internal.display.cutout.emulation.tall,Tall Cutout Emulation
+com.android.settings,Settings
+com.oplus.nhs,Realme NHS Service
+com.android.cameraextensions,Camera Extensions
+com.google.android.apps.youtube.producer,YouTube Creator
+org.coursera.android,Coursera
+com.google.android.networkstack.tethering,Network Stack Tethering
+com.dts.freefiremax,Free Fire MAX
+com.apspdcl.consumerapp,APSPDCL Consumer
+com.google.android.appsearch.apk,AppSearch
+com.oplus.bttestmode,Realme BT Test Mode
+com.oplus.securitykeyboard,Realme Security Keyboard
+com.qti.qualcomm.datastatusnotification,Data Status Notification
+com.qti.dpmserviceapp,Qualcomm DPM Service
+com.google.android.onetimeinitializer,One Time Initializer
+com.google.android.permissioncontroller,Permission Controller
+com.android.apps.tag,Tags
+com.oplus.engineernetwork,Realme Engineer Network
+com.oplus.heartrate.detect,Realme Heart Rate
+com.openai.chatgpt,ChatGPT
+com.oplus.exsystemservice,Realme EX System Service
+com.oplus.dialer,Realme Dialer
+com.aiunit.aon,AI Unit AON
+com.google.android.ext.shared,Ext Shared
+com.ytheekshana.deviceinfo,Device Info
+com.google.android.apps.bard,Google Bard
+com.oplus.rom,Realme ROM
+com.coloros.floatassistant,ColorOS Float Assistant
+com.android.storagemanager,Storage Manager
+com.coloros.bootreg,ColorOS Boot Reg
+com.nothing.icon.free,Nothing Icon Pack
+com.android.systemui.overlay.fingerprint.anim.sw,Fingerprint Animation SW
+com.oplus.uxdesign,Realme UX Design
+gov.mea.psp,MEA PSP
+com.oplus.qualityprotect,Realme Quality Protect
+com.android.providers.partnerbookmarks,Partner Bookmarks
+com.qualcomm.qti.qms.service.trustzoneaccess,TrustZone Access
+com.google.ambient.streaming,Ambient Streaming
+com.oplus.romupdate,Realme ROM Update
+com.android.dynsystem,Dynamic System
+com.facebook.katana,Facebook
+com.oplus.sos,Realme SOS
+com.viki.android,Viki
+android.frameworkres.overlay.product,Framework Product Overlay
+com.oplus.apprecover,Realme App Recover
+com.oplus.games,Realme Games
+com.google.android.connectivity.resources,Connectivity Resources
+com.google.android.youtube,YouTube
+com.coloros.video,Realme Video
+com.heytap.cloud,Heytap Cloud
+com.oneplus.brickmode,Zenspace
+com.google.android.feedback,Google Feedback
+com.finshell.fin,Finshell pay
+com.google.android.apps.messaging,Google messages
+com.google.android.apps.nbu.paisa.user,Gpay
+com.google.android.apps.googleassistant,Google Assistant
+com.google.android.gm,Gmail
+com.google.android.youtube,YouTube
+com.google.android.apps.maps,Google Maps
+com.google.android.apps.photos,Google Photos
+com.google.android.apps.docs,Google Docs
+com.google.android.apps.sheets,Google Sheets
+com.google.android.apps.slides,Google Slides
+com.google.android.apps.drive,Google Drive
+com.google.android.dialer,Phone by Google
+com.google.android.contacts,Google Contacts
+com.google.android.calendar,Google Calendar
+com.google.android.keep,Google Keep
+com.google.android.calculator,Google Calculator
+com.google.android.apps.messaging,Messages
+com.google.android.videos,Google TV
+com.google.android.googlequicksearchbox,Google App
+com.google.android.tts,Speech Services by Google
+com.google.android.inputmethod.latin,Gboard
+com.google.android.play.games,Google Play Games
+com.google.android.apps.subscriptions.red,Google One
+com.google.android.gms,Google Play Services
+com.google.android.gms.location.history,Location History
+com.google.android.play.store,Google Play Store
+com.android.vending,Google Play Store (alt)
+com.google.android.music,Google Play Music (deprecated)
+com.google.android.talk,Google Hangouts (deprecated)
+com.google.android.apps.tachyon,Google Meet
+com.google.android.apps.walletnfcrel,Google Wallet
+com.google.android.apps.wellbeing,Digital Wellbeing
+com.google.android.projection.gearhead,Android Auto
+com.google.android.setupwizard,Setup Wizard
+com.google.android.feedback,Google Feedback
+com.google.android.packageinstaller,Package Installer
+com.google.android.gms.location.reporting,Location Reporting
+com.google.android.inputmethod.handwriting,Google Handwriting Input
+com.miui.cloudbackup,Xiaomi Cloud Backup
+com.xiaomi.micloud.sdk,Xiaomi Cloud SDK
+com.miui.micloudsync,Xiaomi Cloud Sync
+com.miui.cloudservice,Xiaomi Cloud Service
+com.xiaomi.account,Xiaomi Account
+com.miui.player,Mi Music
+com.mi.global.shop,Mi Store
+com.miui.yellowpage,Xiaomi Yellow Pages
+com.miui.miservice,Mi Services & Feedback
+com.xiaomi.aicr,Xiaomi AI Engine
+com.miui.accessibility,MIUI Accessibility
+cn.wps.xiaomi.abroad.lite,Xiaomi WPS Lite
+com.mi.globalminusscreen,App Vault
+com.android.thememanager,Xiaomi Theme Manager
+com.mi.globalbrowser,Mi Browser
+com.mi.health,Mi Health
+com.mi.webkit.core,Mi Webkit Core
+com.mipay.wallet.id,Mi Pay (ID)
+com.micredit.in,Mi Credit (India)
+com.miui.analytics,MIUI Analytics
+com.miui.bugreport,MIUI Bugreport
+com.miui.cleanmaster,MIUI Clean Master
+com.miui.compass,MIUI Compass
+com.miui.hybrid,Mi Quick Apps
+com.miui.hybrid.accessory,Quick Apps Accessory
+com.miui.mishare.connectivity,Mi Share
+com.miui.msa.global,MSA Ad Services
+com.miui.notes,Mi Notes
+com.miui.screenrecorder,Screen Recorder
+com.miui.system,MIUI System Launcher
+com.miui.systemui.carriers.overlay,Carrier Overlay
+com.miui.touchassistant,Quick Ball
+com.miui.userguide,MIUI User Guide
+com.miui.videoplayer,Mi Video Player
+com.miui.weather2,MIUI Weather
+com.xiaomi.calendar,Mi Calendar
+com.xiaomi.glgm,Mi Game Center
+com.xiaomi.joyose,Joyose
+com.xiaomi.midrop,Mi Drop
+com.xiaomi.mipicks,GetApps (App Vault)
+com.xiaomi.mircs,Mi Message Center
+com.xiaomi.payment,Mi Payment
+com.xiaomi.scanner,Mi Scanner
+com.android.updater,MIUI Updater
+com.android.providers.downloads,Downloads UI
+# ColorOS / Realme System Apps
+com.coloros.filemanager,Realme File Manager
+com.coloros.calculator,Realme Calculator
+com.coloros.video,Realme Video Player
+com.coloros.soundrecorder,Realme Sound Recorder
+com.coloros.gamespace,Game Space
+com.coloros.gamespaceui,Game Space UI
+com.coloros.assistantscreen,Smart Assistant
+com.coloros.compass2,Compass
+com.coloros.floatassistant,Floating Quick Ball
+com.coloros.screenrecorder,Screen Recorder
+com.coloros.weather2,Realme Weather
+com.coloros.weather.service,Weather Service
+com.coloros.backuprestore,Clone Phone / Backup & Restore
+com.coloros.focusmode,Focus Mode
+com.coloros.childrenspace,Kids Space
+com.heytap.browser,HeyTap Browser
+com.heytap.cloud,HeyTap Cloud
+com.heytap.usercenter,HeyTap Account Center
+com.heytap.themestore,HeyTap Theme Store
+com.oppo.quicksearchbox,HeyTap Search
+com.oppo.music,Realme Music
+com.heytap.music,HeyTap Music
+com.heytap.colorfulengine,Colorful Engine (themes)
+com.heytap.pictorial,Lockscreen Magazine
+com.heytap.synergy,HeyTap Synergy
+com.realmecomm.app,Realme Community
+com.realme.link,Realme Link
+com.realmestore.app,Realme Store
+com.coloros.onekeylockscreen,One-Tap Lock Screen
+com.redteamobile.roaming,MiRoaming
+com.finshell.fin,Finshell Pay
+

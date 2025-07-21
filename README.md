@@ -3,7 +3,7 @@
 **remember dont delete things that you dont have knownledge about what happen when you didnt know, be have knownledge about apps**
 
 
-youtube link: https://www.youtube.com/watch?v=hJ1Xt-zRm-c
+youtube link: https://www.youtube.com/watch?v=Q9bDSdu12NA
 
 
 **Download from release or tag because their is available of latest versions**
